@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663ff88c52bf3d313bdf08d7"
+  },
+  "fechayhora": "12 de Mayo - 22:00 horas",
+  "equiposparticipantes": "LosBotsitos",
+  "mapaymododejuego": "Blackout/Battle Royal"
+},
+{
+  "_id": {
+    "$oid": "663ff8e252bf3d313bdf08d8"
+  },
+  "fechayhora": "15 de Mayo - 20:00 horas",
+  "equiposparticipantes": "LosDelSur",
+  "mapa": "Insolated/Battle Royal"
+},
+{
+  "_id": {
+    "$oid": "663ff91d52bf3d313bdf08d9"
+  },
+  "fechayhora": "14 de Mayo - 18:00 horas",
+  "equiposparticipantes": "Los Estrangeros",
+  "mapa": "Insolated/Battle Royal"
+},
+{
+  "_id": {
+    "$oid": "663ffa1d52bf3d313bdf08da"
+  },
+  "fechayhora": "12 de Mayo - 22:00 horas",
+  "equiposparticipantes": "LosMataBots",
+  "mapaymododejuego": "Blackout/Battle Royal"
+},
+{
+  "_id": {
+    "$oid": "663ffa6b52bf3d313bdf08db"
+  },
+  "fechayhora": "14 de Mayo - 18:00 horas",
+  "equiposparticipantes": "Sureños",
+  "mapa": "Insolated/Battle Royal"
+},
+{
+  "_id": {
+    "$oid": "663ffacd52bf3d313bdf08dc"
+  },
+  "fechayhora": "14 de Mayo - 18:00 horas",
+  "equiposparticipantes": "Los Pasajeros",
+  "mapa": "Insolated/Battle Royal"
+}]

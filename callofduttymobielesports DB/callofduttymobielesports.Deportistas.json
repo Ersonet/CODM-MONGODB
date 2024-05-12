@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663fffd952bf3d313bdf08e3"
+  },
+  "nombres": "Alex Martinez, Sophia Lee, Diego Rodriguez,Emma Johnson",
+  "equipo": "ElRincondelBot",
+  "pais": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "6640005952bf3d313bdf08e4"
+  },
+  "nombres": "Carlos Gomez, Isabella White, Javier Morales, Olivia Thompson",
+  "equipo": "LosMásPros",
+  "pais": "México"
+},
+{
+  "_id": {
+    "$oid": "664000a852bf3d313bdf08e5"
+  },
+  "nombres": "Mateo Fernandez, Julia Ramirez, Lucas Diaz, Emily Chen",
+  "equipo": "ThePassengersGaming",
+  "pais": "Venezuela"
+},
+{
+  "_id": {
+    "$oid": "664000f552bf3d313bdf08e6"
+  },
+  "nombres": "Daniel Suarez, Valentina Ortiz, Gabriel Torres, Valeria Gonzalez",
+  "equipo": "Nacional Gaming",
+  "pais": "Ecuador"
+},
+{
+  "_id": {
+    "$oid": "6640013e52bf3d313bdf08e7"
+  },
+  "nombres": "David Martin, Paula Castro, Martín Vargas, Natalia Ríos",
+  "equipo": "GhotsRiders",
+  "pais": "España"
+},
+{
+  "_id": {
+    "$oid": "6640019452bf3d313bdf08e8"
+  },
+  "nombres": "Sebastián Mendoza, Camila Silva, Alejandro Pérez, Santiago González",
+  "equipo": "LosDelSur",
+  "pais": "Argentina"
+}]

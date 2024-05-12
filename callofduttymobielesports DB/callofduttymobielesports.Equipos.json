@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663fef5552bf3d313bdf08d1"
+  },
+  "nombre": "ElRinconDelBot",
+  "apodo": "LosBotsitos",
+  "pais": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663ff30552bf3d313bdf08d2"
+  },
+  "nombre": "LosMásPros",
+  "apodo": "LosMataBots",
+  "pais": "México"
+},
+{
+  "_id": {
+    "$oid": "663ff3e652bf3d313bdf08d3"
+  },
+  "nombre": "ThePassengersGaming",
+  "apodo": "LosPasajeros",
+  "pais": "Venezuela"
+},
+{
+  "_id": {
+    "$oid": "663ff43252bf3d313bdf08d4"
+  },
+  "nombre": "Nacional Gaming",
+  "apodo": "Los Extrangeros",
+  "pais": "Ecuador"
+},
+{
+  "_id": {
+    "$oid": "663ff65052bf3d313bdf08d5"
+  },
+  "nombre": "GhotsRiders",
+  "apodo": "Los Extrangeros",
+  "pais": "España"
+},
+{
+  "_id": {
+    "$oid": "663ff6ab52bf3d313bdf08d6"
+  },
+  "nombre": "LosDelSur",
+  "apodo": "Sureños",
+  "pais": "Argentina"
+}]

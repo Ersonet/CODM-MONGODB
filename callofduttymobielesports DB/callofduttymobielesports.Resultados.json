@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6640046b52bf3d313bdf08e9"
+  },
+  "equipoganador": "ElRincondelBot",
+  "equipoperdedor": "LosMásPros",
+  "duraciónpartida": "15 Minutos"
+},
+{
+  "_id": {
+    "$oid": "6640058952bf3d313bdf08ea"
+  },
+  "equipoganador": "GhotsRiders",
+  "equipoperdedor": "LosDelSur",
+  "duraciónpartida": "19 Minutos"
+},
+{
+  "_id": {
+    "$oid": "664005ac52bf3d313bdf08eb"
+  },
+  "equipoganador": "ThePassengersGaming",
+  "equipoperdedor": "Nacional Gaming",
+  "duraciónpartida": "11 Minutos"
+}]

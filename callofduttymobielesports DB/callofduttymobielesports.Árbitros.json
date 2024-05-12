@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663ffb6b52bf3d313bdf08dd"
+  },
+  "nombre": "Enrique Burbury",
+  "pais": "España",
+  "encuentroacargo": "12 de Mayo - 22:00 horas"
+},
+{
+  "_id": {
+    "$oid": "663ffbc252bf3d313bdf08de"
+  },
+  "nombre": "Pepe Mojica",
+  "pais": "Uruguay",
+  "encuentroacargo": "14 de Mayo - 18:00 horas"
+},
+{
+  "_id": {
+    "$oid": "663ffcdb52bf3d313bdf08df"
+  },
+  "nombre": "Ramón Váldez",
+  "pais": "México",
+  "encuentroacargo": "15 de Mayo - 20:00 horas"
+},
+{
+  "_id": {
+    "$oid": "663ffd3852bf3d313bdf08e0"
+  },
+  "nombre": "Armando Puertas",
+  "pais": "Colombia",
+  "encuentroacargo": "12 de Mayo - 22:00 horas (suplente)"
+},
+{
+  "_id": {
+    "$oid": "663ffd6d52bf3d313bdf08e1"
+  },
+  "nombre": "Simon Bolivar",
+  "pais": "Venezuela",
+  "encuentroacargo": "14 de Mayo - 18:00 horas (Suplente)"
+},
+{
+  "_id": {
+    "$oid": "663ffe2852bf3d313bdf08e2"
+  },
+  "nombre": "Simon Bolivar",
+  "pais": "Venezuela",
+  "encuentroacargo": "15 de Mayo - 20:00 horas (Suplente)"
+}]
